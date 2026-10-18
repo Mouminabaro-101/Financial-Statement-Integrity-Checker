@@ -1,0 +1,27 @@
+Total revenue,416.161,391.035,383.285
+Cost of revenue,220.96,210.352,214.137
+Research and development,34.55,31.37,29.915
+Selling, general and administrative,27.601,26.097,24.932
+Other income/(expense), net,-321,269,-565
+Provision for income taxes,20.719,29.749,16.741
+Cash and cash equivalents,35.934,30.737,24.977
+Marketable securities,18.763,35.228,0
+Accounts receivable, net,39.777,33.41,0
+Vendor non-trade receivables,33.18,32.833,0
+Inventories,5.718,7.286,0
+Other current assets,14.585,14.287,0
+Marketable securities,77.723,91.479,0
+Property, plant and equipment, net,49.834,45.68,0
+Other non-current assets,83.727,74.834,0
+Accounts payable,69.86,68.96,0
+Other current liabilities,66.387,78.304,0
+Deferred revenue,9.055,8.249,0
+Commercial paper,7.979,9.967,0
+Term debt,12.35,10.912,0
+Term debt,78.328,85.75,0
+Other non-current liabilities,41.549,45.888,0
+Common stock and additional paid-in capital,93.568,83.276,0
+Accumulated deficit,-14.264,-19.154,0
+Accumulated other comprehensive loss,-5.571,-7.172,0
+Other retained earnings,0,0,0
+
