@@ -25,3 +25,7 @@ python3 engine.py
 ```
 
 ```
+## Visual Data Verification
+Below is the structural breakdown generated dynamically from the text parsing system:
+
+![Balance Sheet Structure](images/balance_sheet_breakdown.png)
