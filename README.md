@@ -1,4 +1,4 @@
-# Data Integrity Check
+# Financial-Statement-Integrity-Check
 
 A Python tool that extracts line items from a raw-text financial statement, rebuilds the key totals independently, and tests whether the accounting identity holds: Assets = Liabilities + Equity.
 
